@@ -6,7 +6,7 @@
 
 &emsp;&emsp;O projeto foi implementado seguindo as etapas propostas e inclui as funcionalidades de criação e listagem de registros em duas tabelas adicionais.
 
-&emsp;&emsp;Pode ser verificado o vídeo do deploy por este link.
+&emsp;&emsp;Pode ser verificado o vídeo do deploy por este [link](https://youtu.be/8tPyMQq8ywU).
 
 ## Estudante e dados
 
